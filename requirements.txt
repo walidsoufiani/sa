@@ -7,3 +7,4 @@ openai==0.10.2
 fitz
 numpy
 gradio
+frontend
